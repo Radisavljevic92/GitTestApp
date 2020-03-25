@@ -1,1 +1,3 @@
 Ovo je recenica koja je dodata u new_branch
+
+ovo je recenica koja je dodata u new_branch2
